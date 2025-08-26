@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\heitor.bleao\OneDrive - SENAC - SP\UCS\UC5\C#\Orientação a objeto\25-08-2025\Animal.cs" Link="Animal.cs" />
+    <Compile Include="C:\Users\heitor.bleao\OneDrive - SENAC - SP\UCS\UC5\C#\Orientação a objeto\25-08-2025\Cachorro.cs" Link="Cachorro.cs" />
+    <Compile Include="C:\Users\heitor.bleao\OneDrive - SENAC - SP\UCS\UC5\C#\Orientação a objeto\25-08-2025\Gato.cs" Link="Gato.cs" />
+    <Compile Include="C:\Users\heitor.bleao\OneDrive - SENAC - SP\UCS\UC5\C#\Orientação a objeto\25-08-2025\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
